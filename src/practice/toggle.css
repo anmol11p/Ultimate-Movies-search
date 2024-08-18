@@ -1,0 +1,48 @@
+.toggle-container{
+    height: 4rem;
+    width:10rem;
+    border-radius: 10px;
+    margin-left: 50%;
+    cursor: pointer;
+    margin-top: 50px;
+}
+.toggleCircle{
+    cursor: pointer;
+   position: relative;
+    top: 10px;
+     left: 5px;
+    /* background-color: red; */
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.ON {
+    transition: transform 0.8s ease-in-out;
+    transform: translateX(0) rotate(0deg); 
+    background-color: red;
+    color: white;
+    border-top: 2px solid white;
+    /* No animation here, only transform */
+}
+
+.OFF {
+    transition: transform 0.8s ease-in-out;
+    transform: translateX(100px) rotate(360deg); /* Final state */
+    background-color: green;
+    color: white;
+    border-top: 2px solid white;
+    /* No animation here, only transform */
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg); /* Starting rotation */
+    }
+    100% {
+        transform: rotate(360deg); /* Ending rotation */
+    }
+}
+

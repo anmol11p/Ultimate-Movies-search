@@ -1,0 +1,456 @@
+[
+  {
+    "id": 1,
+    "name": "Crash Landing on You",
+    "img": "https://tse2.mm.bing.net/th?id=OIP.IAIVPIl13DLSOMmbQkMxDgHaEK&pid=Api&P=0&h=180",
+    "rating": 9.1,
+    "description": "A South Korean heiress accidentally crash-lands in North Korea and meets an army officer who helps her hide.",
+    "cast": ["Hyun Bin", "Son Ye-jin", "Seo Ji-hye"],
+    "genre": ["Romance", "Drama"],
+    "watchUrl": "https://www.netflix.com/title/81290293"
+  },
+  {
+    "id": 2,
+    "name": "Itaewon Class",
+    "img": "https://tse1.explicit.bing.net/th?id=OIP.-2Q0bjwQRGHzGhhzrgIy0gHaE8&pid=Api&P=0&h=180",
+    "rating": 8.5,
+    "description": "An ex-con and his friends fight to make their ambitious dreams for their street bar a reality.",
+    "cast": ["Park Seo-joon", "Kim Da-mi", "Yoo Jae-myung"],
+    "genre": ["Drama", "Slice of Life"],
+    "watchUrl": "https://www.netflix.com/title/81193309"
+  },
+  {
+    "id": 3,
+    "name": "Goblin",
+    "img": "https://tse2.mm.bing.net/th?id=OIP.zP4fFKrPAUewAXqax4ZlvQHaHa&pid=Api&P=0&h=180",
+    "rating": 9.0,
+    "description": "A 939-year-old immortal goblin meets a girl who can see ghosts and is destined to be his bride.",
+    "cast": ["Gong Yoo", "Kim Go-eun", "Lee Dong-wook"],
+    "genre": ["Fantasy", "Romance"],
+    "watchUrl": "https://www.netflix.com/title/80184787"
+  },
+  {
+    "id": 4,
+    "name": "Kingdom",
+    "img": "https://www.syfy.com/sites/syfy/files/styles/1200x680/public/2018/12/kingdom_105_unit_00708.jpg",
+    "rating": 8.8,
+    "description": "In a kingdom defeated by corruption and famine, a mysterious plague spreads to turn the infected into monsters.",
+    "cast": ["Ju Ji-hoon", "Ryu Seung-ryong", "Bae Doona"],
+    "genre": ["Horror", "Thriller"],
+    "watchUrl": "https://www.netflix.com/title/80180171"
+  },
+  {
+    "id": 5,
+    "name": "Vincenzo",
+    "img": "https://tse2.mm.bing.net/th?id=OIP.___TPJ1lUIXZNYKWecAgnAHaEK&pid=Api&P=0&h=180",
+    "rating": 8.7,
+    "description": "A Korean-Italian mafia lawyer returns to his homeland and delivers a dose of justice.",
+    "cast": ["Song Joong-ki", "Jeon Yeo-been", "Ok Taec-yeon"],
+    "genre": ["Crime", "Comedy"],
+    "watchUrl": "https://www.netflix.com/title/81365087"
+  },
+  {
+    "id": 6,
+    "name": "My Mister",
+    "img": "https://tse1.mm.bing.net/th?id=OIP.egVnH-hEvG6JRG1omdDTOgHaEK&pid=Api&P=0&h=180",
+    "rating": 9.1,
+    "description": "A young woman with a difficult life forms a bond with a middle-aged man facing his own struggles.",
+    "cast": ["Lee Sun-kyun", "IU", "Park Ho-san"],
+    "genre": ["Drama"],
+    "watchUrl": "https://www.netflix.com/title/81018464"
+  },
+  {
+    "id": 7,
+    "name": "Start-Up",
+    "img": "https://asianwiki.com/images/d/d9/Start-Up-CP1.jpg",
+    "rating": 8.1,
+    "description": "Young entrepreneurs aspire to launch virtual dreams into reality as they compete for success and love in Korea's high-tech industry.",
+    "cast": ["Bae Suzy", "Nam Joo-hyuk", "Kim Seon-ho"],
+    "genre": ["Drama", "Romance"],
+    "watchUrl": "https://www.netflix.com/title/81290293"
+  },
+  {
+    "id": 8,
+    "name": "Hotel Del Luna",
+    "img": "https://up.yimg.com/ib/th?id=OIP.ZWW7tE6CHUFehG-1A9p4mQHaK5&pid=Api&",
+    "rating": 8.7,
+    "description": "The manager of a hotel for the dead meets a woman who has been cursed to run the hotel for centuries.",
+    "cast": ["IU", "Yeo Jin-goo", "P.O"],
+    "genre": ["Fantasy", "Romance"],
+    "watchUrl": "https://www.netflix.com/title/81137873"
+  },
+  {
+    "id": 9,
+    "name": "It's Okay to Not Be Okay",
+    "img": "https://tse2.mm.bing.net/th?id=OIP.XzVK26ZEpVEt8COW00dA4gHaG7&pid=Api",
+    "rating": 8.6,
+    "description": "An unconventional romance between a psychiatric ward caregiver and a children's book author.",
+    "cast": ["Kim Soo-hyun", "Seo Yea-ji", "Oh Jung-se"],
+    "genre": ["Romance", "Drama"],
+    "watchUrl": "https://www.netflix.com/title/81243992"
+  },
+  {
+    "id": 10,
+    "name": "Reply 1988",
+    "img": "https://tse4.mm.bing.net/th?id=OIP.KQG27TA4vu_0XK1kua_ddwHaK5&pid=Api&",
+    "rating": 9.7,
+    "description": "A nostalgic look back at life in 1988 through the lives of five families living in the same neighborhood.",
+    "cast": ["Lee Hye-ri", "Ryu Jun-yeol", "Go Kyung-pyo"],
+    "genre": ["Comedy", "Drama"],
+    "watchUrl": "https://www.netflix.com/title/81193309"
+  },
+  {
+    "id": 11,
+    "name": "Stranger Things",
+    "img": "https://tse4.mm.bing.net/th?id=OIP.Zb8eGRw3g042YPgJoxBobwHaEK&pid",
+    "rating": 8.9,
+    "description": "A prosecutor with a lack of empathy teams up with a passionate detective to uncover corruption in the legal system.",
+    "cast": ["Cho Seung-woo", "Bae Doona", "Lee Joon-hyuk"],
+    "genre": ["Thriller", "Mystery"],
+    "watchUrl": "https://www.netflix.com/title/80176893"
+  },
+  {
+    "id": 12,
+    "name": "Parasite",
+    "rating": 8.6,
+    "description": "A poor family schemes to become employed by a wealthy family and infiltrate their home.",
+    "cast": ["Song Kang-ho", "Lee Sun-kyun", "Cho Yeo-jeong"],
+    "genre": ["Drama", "Thriller"],
+    "watchUrl": "https://www.netflix.com/title/81005150"
+  },
+  {
+    "id": 13,
+    "name": "Dangal",
+    "rating": 8.6,
+    "description": "A former wrestler trains his daughters to become world-class wrestlers.",
+    "cast": ["Aamir Khan", "Sakshi Tanwar", "Fatima Sana Shaikh"],
+    "genre": ["Biography", "Drama"],
+    "watchUrl": "https://www.hotstar.com/in/movies/dangal/1260002455"
+  },
+  {
+    "id": 14,
+    "name": "3 Idiots",
+    "rating": 8.4,
+    "description": "Three friends embark on a quest to discover the true meaning of life.",
+    "cast": ["Aamir Khan", "Kareena Kapoor", "Madhavan"],
+    "genre": ["Comedy", "Drama"],
+    "watchUrl": "https://www.netflix.com/in/title/70115888"
+  },
+  {
+    "id": 15,
+    "name": "The Handmaiden",
+    "rating": 8.4,
+    "description": "A con woman and a maid's elaborate plan gets complicated by unexpected romance.",
+    "cast": ["Kim Tae-ri", "Ha Jung-woo", "Cho Jin-woong"],
+    "genre": ["Thriller", "Romance"],
+    "watchUrl": "https://www.amazon.com/Handmaiden-Kim-Tae-ri/dp/B0789X8BGK"
+  },
+  {
+    "id": 16,
+    "name": "Midnight Diner: Tokyo Stories",
+    "rating": 8.5,
+    "description": "A late-night diner in Tokyo serves food and comfort to its eclectic clientele.",
+    "cast": ["Kaoru Kobayashi", "Nijiro Murakami", "Kimiko Yo"],
+    "genre": ["Drama"],
+    "watchUrl": "https://www.netflix.com/title/80212919"
+  },
+  {
+    "id": 17,
+    "name": "Ratatouille",
+    "rating": 8.0,
+    "description": "A rat with a passion for cooking secretly becomes a renowned chef in Paris.",
+    "cast": ["Patton Oswalt", "Ian Holm", "Lou Romano"],
+    "genre": ["Animation", "Comedy"],
+    "watchUrl": "https://www.disneyplus.com/movies/ratatouille/2xVdRh4nZ9Do"
+  },
+  {
+    "id": 18,
+    "name": "Boys Over Flowers",
+    "rating": 8.2,
+    "description": "A poor girl gets entangled with a group of wealthy, popular boys at her new school.",
+    "cast": ["Ku Hye-sun", "Lee Min-ho", "Kim Hyun-joong"],
+    "genre": ["Romance", "Drama"],
+    "watchUrl": "https://www.netflix.com/title/70218185"
+  },
+  {
+    "id": 19,
+    "name": "Café Midnight",
+    "rating": 7.9,
+    "description": "A late-night café owner helps customers navigate their personal dilemmas.",
+    "cast": ["Yoo Joon-sang", "Kim So-eun", "Park Jung-min"],
+    "genre": ["Drama"],
+    "watchUrl": "https://www.netflix.com/title/80998736"
+  },
+  {
+    "id": 20,
+    "name": "Memories of the Alhambra",
+    "rating": 8.6,
+    "description": "A businessman and an AR game developer become entangled in a mysterious adventure in Granada.",
+    "cast": ["Hyun Bin", "Park Shin-hye", "Ahn Jae-hong"],
+    "genre": ["Sci-Fi", "Romance"],
+    "watchUrl": "https://www.netflix.com/title/81003009"
+  },
+  {
+    "id": 21,
+    "name": "The King: Eternal Monarch",
+    "rating": 8.3,
+    "description": "A modern-day emperor crosses into a parallel world to close the door between their two realms.",
+    "cast": ["Lee Min-ho", "Kim Go-eun", "Woo Do-hwan"],
+    "genre": ["Fantasy", "Romance"],
+    "watchUrl": "https://www.netflix.com/title/81006971"
+  },
+  {
+    "id": 22,
+    "name": "Tumbbad",
+    "rating": 8.2,
+    "description": "A mythological horror film about a man's quest to find a hidden treasure in the village of Tumbbad.",
+    "cast": ["Sohum Shah", "Sohum Shah", "Jyoti Malshe"],
+    "genre": ["Horror", "Fantasy"],
+    "watchUrl": "https://www.hotstar.com/in/movies/tumbbad/1260002457"
+  },
+  {
+    "id": 23,
+    "name": "Jab We Met",
+    "rating": 8.0,
+    "description": "A chance encounter on a train leads to a romance between a troubled businessman and a cheerful young woman.",
+    "cast": ["Shahid Kapoor", "Kareena Kapoor", "Tarun Arora"],
+    "genre": ["Romance", "Comedy"],
+    "watchUrl": "https://www.netflix.com/in/title/70170292"
+  },
+  {
+    "id": 24,
+    "name": "Memento",
+    "rating": 8.4,
+    "description": "A man with short-term memory loss uses notes and tattoos to hunt for his wife's killer.",
+    "cast": ["Guy Pearce", "Carrie-Anne Moss", "Joe Pantoliano"],
+    "genre": ["Thriller", "Mystery"],
+    "watchUrl": "https://www.netflix.com/title/60023468"
+  },
+  {
+    "id": 25,
+    "name": "Secret Garden",
+    "rating": 8.1,
+    "description": "A body-swapping fantasy romance between a wealthy man and a stuntwoman.",
+    "cast": ["Hyun Bin", "Ha Ji-won", "Yoon Sang-hyun"],
+    "genre": ["Romance", "Fantasy"],
+    "watchUrl": "https://www.netflix.com/title/70218190"
+  },
+  {
+    "id": 26,
+    "name": "The Queen’s Gambit",
+    "rating": 8.6,
+    "description": "An orphaned chess prodigy struggles with addiction and her past as she rises to the top of the chess world.",
+    "cast": ["Anya Taylor-Joy", "Bill Camp", "Marielle Heller"],
+    "genre": ["Drama"],
+    "watchUrl": "https://www.netflix.com/title/80234304"
+  },
+  {
+    "id": 27,
+    "name": "Psycho",
+    "rating": 8.5,
+    "description": "A secretary ends up at a remote motel after embezzling money, where she encounters a disturbed motel owner.",
+    "cast": ["Anthony Perkins", "Janet Leigh", "Vera Miles"],
+    "genre": ["Thriller", "Horror"],
+    "watchUrl": "https://www.amazon.com/Psycho-Anthony-Perkins/dp/B003XQ8X0W"
+  },
+  {
+    "id": 28,
+    "name": "Coffee Prince",
+    "rating": 8.5,
+    "description": "A young woman disguises herself as a man to get a job at a coffee shop, where she falls for her boss.",
+    "cast": ["Gong Yoo", "Yoon Eun-hye", "Lee Seon-kyun"],
+    "genre": ["Romance", "Comedy"],
+    "watchUrl": "https://www.netflix.com/title/70218193"
+  },
+  {
+    "id": 29,
+    "name": "The Crown",
+    "rating": 8.7,
+    "description": "The story of the reign of Queen Elizabeth II, covering her early years as monarch.",
+    "cast": ["Claire Foy", "Matt Smith", "Vanessa Kirby"],
+    "genre": ["Biography", "Drama"],
+    "watchUrl": "https://www.netflix.com/title/80025678"
+  },
+  {
+    "id": 30,
+    "name": "The Great Indian Kitchen",
+    "rating": 8.5,
+    "description": "A woman struggles with the constraints of traditional gender roles and expectations within her household.",
+    "cast": ["Nimisha Sajayan", "Suraj Venjaramoodu", "Rajesh Sharma"],
+    "genre": ["Drama"],
+    "watchUrl": "https://www.amazon.com/Great-Indian-Kitchen-Suraj-Venjaramoodu/dp/B08R5B4L54"
+  },
+  {
+    "id": 31,
+    "name": "Mirzapur",
+    "rating": 8.5,
+    "description": "A story of power and crime in the town of Mirzapur, focusing on two brothers and their involvement in the criminal underworld.",
+    "cast": ["Pankaj Tripathi", "Ali Fazal", "Divyendu Sharma"],
+    "genre": ["Action", "Crime"],
+    "watchUrl": "https://www.amazon.com/Mirzapur-Season-1/dp/B07JZTWKNY"
+  },
+  {
+    "id": 32,
+    "name": "Gully Boy",
+    "rating": 8.3,
+    "description": "A street rapper from Mumbai rises to fame while facing the struggles of his challenging life.",
+    "cast": ["Ranveer Singh", "Alia Bhatt", "Vijay Raaz"],
+    "genre": ["Drama", "Music"],
+    "watchUrl": "https://www.amazon.com/Gully-Boy-Ranveer-Singh/dp/B0859R8H99"
+  },
+  {
+    "id": 33,
+    "name": "The Family Man",
+    "rating": 8.4,
+    "description": "An intelligence officer balances his secretive job with family life while dealing with domestic and international threats.",
+    "cast": ["Manoj Bajpayee", "Priyamani", "Sharib Hashmi"],
+    "genre": ["Action", "Drama"],
+    "watchUrl": "https://www.amazon.com/Family-Man-Season-1/dp/B08CKB7L1S"
+  },
+  {
+    "id": 34,
+    "name": "Sardar Udham",
+    "rating": 8.5,
+    "description": "A biographical film about Udham Singh, who avenged the Jallianwala Bagh massacre.",
+    "cast": ["Vicky Kaushal", "Shaad Randhawa", "Amol Parashar"],
+    "genre": ["Biography", "Drama"],
+    "watchUrl": "https://www.amazon.com/Sardar-Udham-Vicky-Kaushal/dp/B09J2X9C4J"
+  },
+  {
+    "id": 35,
+    "name": "Sacred Games",
+    "rating": 8.6,
+    "description": "A Mumbai cop uncovers a dark underworld while investigating the disappearance of a notorious gangster.",
+    "cast": ["Saif Ali Khan", "Nawazuddin Siddiqui", "Radhika Apte"],
+    "genre": ["Crime", "Drama"],
+    "watchUrl": "https://www.netflix.com/in/title/80115328"
+  },
+  {
+    "id": 36,
+    "name": "Delhi Crime",
+    "rating": 8.7,
+    "description": "A gripping series based on the real-life Delhi gang rape case and the investigation that followed.",
+    "cast": ["Shefali Shah", "Rajesh Tailang", "Adil Hussain"],
+    "genre": ["Crime", "Drama"],
+    "watchUrl": "https://www.netflix.com/in/title/80244878"
+  },
+  {
+    "id": 37,
+    "name": "Kahaani",
+    "rating": 8.2,
+    "description": "A pregnant woman searches for her missing husband in Kolkata, unraveling a complex mystery.",
+    "cast": ["Vidya Balan", "Parambrata Chatterjee", "Nawazuddin Siddiqui"],
+    "genre": ["Thriller", "Drama"],
+    "watchUrl": "https://www.amazon.com/Kahaani-Vidya-Balan/dp/B007P6A1W4"
+  },
+  {
+    "id": 38,
+    "name": "Ludo",
+    "rating": 8.3,
+    "description": "A dark comedy that weaves together four stories about chance, love, and misadventures.",
+    "cast": ["Abhishek Bachchan", "Aditya Roy Kapur", "Rajkummar Rao"],
+    "genre": ["Comedy", "Drama"],
+    "watchUrl": "https://www.netflix.com/in/title/81005582"
+  },
+  {
+    "id": 39,
+    "name": "Andhadhun",
+    "rating": 8.4,
+    "description": "A blind pianist becomes embroiled in a complex plot of murder and deceit.",
+    "cast": ["Ayushmann Khurrana", "Tabu", "Radhika Apte"],
+    "genre": ["Thriller", "Crime"],
+    "watchUrl": "https://www.amazon.com/Andhadhun-Ayushmann-Khurrana/dp/B07H7B3X45"
+  },
+  {
+    "id": 40,
+    "name": "Bajrangi Bhaijaan",
+    "rating": 8.0,
+    "description": "A devout Hindu embarks on a journey to reunite a mute Pakistani girl with her family.",
+    "cast": ["Salman Khan", "Kareena Kapoor", "Harshaali Malhotra"],
+    "genre": ["Drama", "Comedy"],
+    "watchUrl": "https://www.hotstar.com/in/movies/bajrangi-bhaijaan/1260002092"
+  },
+  {
+    "id": 41,
+    "name": "Piku",
+    "rating": 8.1,
+    "description": "A quirky story of a daughter managing her elderly father’s health and her own life.",
+    "cast": ["Amitabh Bachchan", "Deepika Padukone", "Irrfan Khan"],
+    "genre": ["Comedy", "Drama"],
+    "watchUrl": "https://www.amazon.com/Piku-Deepika-Padukone/dp/B01IN5EKP0"
+  },
+  {
+    "id": 42,
+    "name": "Sita Ramam",
+    "img": "https://i.pinimg.com/564x/e8/90/dd/e890dd59d7f77efbff8c092bd5e49f44.jpg",
+    "rating": 8.2,
+    "description": "A timeless love story set in the backdrop of historical events and personal struggles.",
+    "cast": ["Dulquer Salmaan", "Mrunal Thakur", "Sumanth"],
+    "genre": ["Romance", "Drama"],
+    "watchUrl": "https://www.hotstar.com/in/movies/sita-ramam/1260002456"
+  },
+  {
+    "id": 43,
+    "name": "Raazi",
+    "rating": 8.1,
+    "description": "A young Indian woman marries a Pakistani military officer to gather intelligence for her country.",
+    "cast": ["Alia Bhatt", "Vicky Kaushal", "Rajit Kapoor"],
+    "genre": ["Thriller", "Drama"],
+    "watchUrl": "https://www.amazon.com/Raazi-Alia-Bhatt/dp/B07C4DVRF7"
+  },
+  {
+    "id": 44,
+    "name": "Koi... Mil Gaya",
+    "rating": 8.0,
+    "description": "A young man befriends an alien who has arrived on Earth and helps him return home.",
+    "cast": ["Hrithik Roshan", "Preity Zinta", "Rekha"],
+    "genre": ["Sci-Fi", "Drama"],
+    "watchUrl": "https://www.hotstar.com/in/movies/koi-mil-gaya/1260002049"
+  },
+  {
+    "id": 45,
+    "name": "Natsamrat",
+    "rating": 8.5,
+    "description": "A celebrated stage actor faces the trials and tribulations of his later years and family dynamics.",
+    "cast": ["Nana Patekar", "Medha Manjrekar", "Neena Kulkarni"],
+    "genre": ["Drama"],
+    "watchUrl": "https://www.hotstar.com/in/movies/natsamrat/1260002101"
+  },
+  {
+    "id": 46,
+    "name": "Shutter Island",
+    "rating": 8.2,
+    "description": "A U.S. Marshal investigates a psychiatric facility after a patient goes missing.",
+    "cast": ["Leonardo DiCaprio", "Mark Ruffalo", "Ben Kingsley"],
+    "genre": ["Thriller", "Mystery"],
+    "watchUrl": "https://www.amazon.com/Shutter-Island-Leonardo-DiCaprio/dp/B003XU9WOS"
+  },
+  {
+    "id": 47,
+    "name": "The Man From Nowhere",
+    "rating": 8.1,
+    "description": "A reclusive man with a dark past goes on a mission to save a young girl kidnapped by a criminal gang.",
+    "cast": ["Won Bin", "Lee Jeong-seok", "Kim Sae-ron"],
+    "genre": ["Action", "Thriller"],
+    "watchUrl": "https://www.netflix.com/title/70126355"
+  },
+  {
+    "id": 48,
+    "name": "Madhuri",
+    "rating": 8.1,
+    "description": "A story of a young girl’s struggles with her family and societal expectations.",
+    "cast": ["Rima Kallingal", "Sharaf U Dheen", "Aju Varghese"],
+    "genre": ["Drama"],
+    "watchUrl": "https://www.hotstar.com/in/movies/madhuri/1260002460"
+  },
+  {
+    "id": 50,
+    "name": "Tamasha",
+    "img": "https://i.pinimg.com/564x/de/b9/37/deb937077044583d6f856b0731cd7955.jpg",
+    "rating": 7.9,
+    "description": "A young man grapples with his identity and past as he navigates through life and relationships in this visually engaging film.",
+    "cast": ["Ranbir Kapoor", "Deepika Padukone", "Piyush Mishra"],
+    "genre": ["Drama", "Romance"],
+    "watchUrl": "https://www.hotstar.com/in/movies/tamasha/1260001428"
+  }
+]
